@@ -1,0 +1,467 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.17968360677, -38.9295161198704]
+      },
+      "properties": {
+        "name": "AND - Huincul",
+        "operadora": "YPF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.7950119716091, -38.350011706922]
+      },
+      "properties": {
+        "name": "Añelo (NOC)",
+        "operadora": "YPF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.7777378230204, -33.1312356409103]
+      },
+      "properties": {
+        "name": "Barrancas",
+        "operadora": "YPF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.4896332576705, -45.7315735990545]
+      },
+      "properties": {
+        "name": "Cañadón Perdido (km20)",
+        "operadora": "YPF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.6108266408132, -46.5573061606915]
+      },
+      "properties": {
+        "name": "Cañadón Seco",
+        "operadora": "YPF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.0586065596392, -37.3312156387415]
+      },
+      "properties": {
+        "name": "Desfiladero Bayo (RDLS)",
+        "operadora": "YPF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.8707620756604, -39.0075944165036]
+      },
+      "properties": {
+        "name": "EFO",
+        "operadora": "YPF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.6322824768157, -37.1555604519294]
+      },
+      "properties": {
+        "name": "El Porton",
+        "operadora": "YPF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.8316056607728, -45.7617074582981]
+      },
+      "properties": {
+        "name": "Escalante",
+        "operadora": "YPF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.6914556236005, -33.3240508553364]
+      },
+      "properties": {
+        "name": "La Ventana",
+        "operadora": "YPF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.7598835731905, -46.535960532824]
+      },
+      "properties": {
+        "name": "Las Heras",
+        "operadora": "YPF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.6083642190994, -38.5023485479932]
+      },
+      "properties": {
+        "name": "Loma la Lata",
+        "operadora": "YPF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.6473621705267, -36.0896688121206]
+      },
+      "properties": {
+        "name": "Los Cavaos (Malargue)",
+        "operadora": "YPF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.2931650142175, -46.17512473824]
+      },
+      "properties": {
+        "name": "Los Perales",
+        "operadora": "YPF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.7400375247049, -45.6733614822723]
+      },
+      "properties": {
+        "name": "Manantiales Bher",
+        "operadora": "YPF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.0886140825392, -53.3539710827408]
+      },
+      "properties": {
+        "name": "San Sebastian (TDF)",
+        "operadora": "YPF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.8112350951747, -37.8812218809206]
+      },
+      "properties": {
+        "name": "Señal Picada",
+        "operadora": "YPF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.4177861240572, -33.5430590464109]
+      },
+      "properties": {
+        "name": "Vizcacheras",
+        "operadora": "YPF"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.6129964862204, -46.5471716446931]
+      },
+      "properties": {
+        "name": "CAÑADON SECO",
+        "operadora": "CGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.94063177202904, -46.66115899720794]
+      },
+      "properties": {
+        "name": "Pico Truncado",
+        "operadora": "CGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.2452170367434, -51.6230914268114]
+      },
+      "properties": {
+        "name": "Rio Gallegos",
+        "operadora": "CGC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.18116165600074, -38.9157627691736]
+      },
+      "properties": {
+        "name": "Centenario",
+        "operadora": "Pluspetrol"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.09805432938785, -37.74026621571286]
+      },
+      "properties": {
+        "name": "Petrolera Sudamericana-UTE",
+        "operadora": "Petrolera Sudamericana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.95672444586216, -37.98353271836952]
+      },
+      "properties": {
+        "name": "Petrolera Sudamericana-Medanito",
+        "operadora": "Petrolera Sudamericana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.30693117367653, -45.730821131621866]
+      },
+      "properties": {
+        "name": "Cerro Dragón",
+        "operadora": "Pan American Energy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.78159032573315, -38.01951301770881]
+      },
+      "properties": {
+        "name": "Medanito-Jaguel-PAMPETROL",
+        "operadora": "PAMPETROL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.3064458953885, -45.73042609021702]
+      },
+      "properties": {
+        "name": "Cerro Dragón",
+        "operadora": "PAE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.27581831918124, -46.703031549045015]
+      },
+      "properties": {
+        "name": "KOLUEL KAIKE",
+        "operadora": "PAE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.28329067983137, -38.724465028896475]
+      },
+      "properties": {
+        "name": "LINDERO ATRAVESADO",
+        "operadora": "PAE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.57795890485373, -45.901985439728364]
+      },
+      "properties": {
+        "name": "PECOM COMODORO RIVADAVIA",
+        "operadora": "PECOM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.27309824381823, -37.24123287744325]
+      },
+      "properties": {
+        "name": "AGUADA CHIVATO - PECOM",
+        "operadora": "PECOM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.1307087593407, -45.86809541184321]
+      },
+      "properties": {
+        "name": "El Tordillo",
+        "operadora": "TECPE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.04368213731196, -38.278761390226784]
+      },
+      "properties": {
+        "name": "Cruz De Lorena",
+        "operadora": "SHELL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.12624231777491, -37.63544055344874]
+      },
+      "properties": {
+        "name": "PET SUD-MEDANITO",
+        "operadora": "PETROLEOS SUDAMERICANOS SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.76410318886306, -37.87471046307522]
+      },
+      "properties": {
+        "name": "PET SUD-CATRIEL ESTE",
+        "operadora": "PETROLEOS SUDAMERICANOS SA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.64320816858059, -45.74168083088503]
+      },
+      "properties": {
+        "name": "YAC. DIADEMA",
+        "operadora": "CAPSA-CAPEX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.06085729473443, -45.793312561536794]
+      },
+      "properties": {
+        "name": "PAMPA DEL CASTILLO",
+        "operadora": "CAPSA-CAPEX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.35618047760441, -38.93543369846393]
+      },
+      "properties": {
+        "name": "YACIMIENTO AGUA CAJON",
+        "operadora": "CAPSA-CAPEX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.55247158131967, -35.475047202765715]
+      },
+      "properties": {
+        "name": "PCR-MALARGÜE",
+        "operadora": "PCR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.97345683949271, -37.98137993151713]
+      },
+      "properties": {
+        "name": "EL MEDANITO",
+        "operadora": "PCR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.32439152721938, -38.499339744025505]
+      },
+      "properties": {
+        "name": "CERRO MATA MORA PETROLERA EL TREBO",
+        "operadora": "PHOENIX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.88276717095226, -33.082961085963376]
+      },
+      "properties": {
+        "name": "CHAÑARES HERRADOS",
+        "operadora": "ACONCAGUA"
+      }
+    }
+  ]
+}
