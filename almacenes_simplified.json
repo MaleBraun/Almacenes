@@ -1,0 +1,254 @@
+[
+    {
+        "name": "AND - Huincul",
+        "operadora": "YPF",
+        "latitude": -38.9295161198704,
+        "longitude": -69.17968360677
+    },
+    {
+        "name": "Añelo (NOC)",
+        "operadora": "YPF",
+        "latitude": -38.350011706922,
+        "longitude": -68.7950119716091
+    },
+    {
+        "name": "Barrancas",
+        "operadora": "YPF",
+        "latitude": -33.1312356409103,
+        "longitude": -68.7777378230204
+    },
+    {
+        "name": "Cañadón Perdido (km20)",
+        "operadora": "YPF",
+        "latitude": -45.7315735990545,
+        "longitude": -67.4896332576705
+    },
+    {
+        "name": "Cañadón Seco",
+        "operadora": "YPF",
+        "latitude": -46.5573061606915,
+        "longitude": -67.6108266408132
+    },
+    {
+        "name": "Desfiladero Bayo (RDLS)",
+        "operadora": "YPF",
+        "latitude": -37.3312156387415,
+        "longitude": -69.0586065596392
+    },
+    {
+        "name": "EFO",
+        "operadora": "YPF",
+        "latitude": -39.0075944165036,
+        "longitude": -67.8707620756604
+    },
+    {
+        "name": "El Porton",
+        "operadora": "YPF",
+        "latitude": -37.1555604519294,
+        "longitude": -69.6322824768157
+    },
+    {
+        "name": "Escalante",
+        "operadora": "YPF",
+        "latitude": -45.7617074582981,
+        "longitude": -67.8316056607728
+    },
+    {
+        "name": "La Ventana",
+        "operadora": "YPF",
+        "latitude": -33.3240508553364,
+        "longitude": -68.6914556236005
+    },
+    {
+        "name": "Las Heras",
+        "operadora": "YPF",
+        "latitude": -46.535960532824,
+        "longitude": -68.7598835731905
+    },
+    {
+        "name": "Loma la Lata",
+        "operadora": "YPF",
+        "latitude": -38.5023485479932,
+        "longitude": -68.6083642190994
+    },
+    {
+        "name": "Los Cavaos (Malargue)",
+        "operadora": "YPF",
+        "latitude": -36.0896688121206,
+        "longitude": -69.6473621705267
+    },
+    {
+        "name": "Los Perales",
+        "operadora": "YPF",
+        "latitude": -46.17512473824,
+        "longitude": -69.2931650142175
+    },
+    {
+        "name": "Manantiales Bher",
+        "operadora": "YPF",
+        "latitude": -45.6733614822723,
+        "longitude": -67.7400375247049
+    },
+    {
+        "name": "San Sebastian (TDF)",
+        "operadora": "YPF",
+        "latitude": -53.3539710827408,
+        "longitude": -68.0886140825392
+    },
+    {
+        "name": "Señal Picada",
+        "operadora": "YPF",
+        "latitude": -37.8812218809206,
+        "longitude": -67.8112350951747
+    },
+    {
+        "name": "Vizcacheras",
+        "operadora": "YPF",
+        "latitude": -33.5430590464109,
+        "longitude": -68.4177861240572
+    },
+    {
+        "name": "CAÑADON SECO",
+        "operadora": "CGC",
+        "latitude": -46.5471716446931,
+        "longitude": -67.6129964862204
+    },
+    {
+        "name": "Pico Truncado",
+        "operadora": "CGC",
+        "latitude": -46.66115899720794,
+        "longitude": -67.94063177202904
+    },
+    {
+        "name": "Rio Gallegos",
+        "operadora": "CGC",
+        "latitude": -51.6230914268114,
+        "longitude": -69.2452170367434
+    },
+    {
+        "name": "Centenario",
+        "operadora": "Pluspetrol",
+        "latitude": -38.9157627691736,
+        "longitude": -68.18116165600074
+    },
+    {
+        "name": "Petrolera Sudamericana-UTE",
+        "operadora": "Petrolera Sudamericana",
+        "latitude": -37.74026621571286,
+        "longitude": -68.09805432938785
+    },
+    {
+        "name": "Petrolera Sudamericana-Medanito",
+        "operadora": "Petrolera Sudamericana",
+        "latitude": -37.98353271836952,
+        "longitude": -67.95672444586216
+    },
+    {
+        "name": "Cerro Dragón",
+        "operadora": "Pan American Energy",
+        "latitude": -45.730821131621866,
+        "longitude": -68.30693117367653
+    },
+    {
+        "name": "Medanito-Jaguel-PAMPETROL",
+        "operadora": "PAMPETROL",
+        "latitude": -38.01951301770881,
+        "longitude": -67.78159032573315
+    },
+    {
+        "name": "Cerro Dragón",
+        "operadora": "PAE",
+        "latitude": -45.73042609021702,
+        "longitude": -68.3064458953885
+    },
+    {
+        "name": "KOLUEL KAIKE",
+        "operadora": "PAE",
+        "latitude": -46.703031549045015,
+        "longitude": -68.27581831918124
+    },
+    {
+        "name": "LINDERO ATRAVESADO",
+        "operadora": "PAE",
+        "latitude": -38.724465028896475,
+        "longitude": -68.28329067983137
+    },
+    {
+        "name": "PECOM COMODORO RIVADAVIA",
+        "operadora": "PECOM",
+        "latitude": -45.901985439728364,
+        "longitude": -67.57795890485373
+    },
+    {
+        "name": "AGUADA CHIVATO - PECOM",
+        "operadora": "PECOM",
+        "latitude": -37.24123287744325,
+        "longitude": -68.27309824381823
+    },
+    {
+        "name": "El Tordillo",
+        "operadora": "TECPE",
+        "latitude": -45.86809541184321,
+        "longitude": -68.1307087593407
+    },
+    {
+        "name": "Cruz De Lorena",
+        "operadora": "SHELL",
+        "latitude": -38.278761390226784,
+        "longitude": -68.04368213731196
+    },
+    {
+        "name": "PET SUD-MEDANITO",
+        "operadora": "PETROLEOS SUDAMERICANOS SA",
+        "latitude": -37.63544055344874,
+        "longitude": -69.12624231777491
+    },
+    {
+        "name": "PET SUD-CATRIEL ESTE",
+        "operadora": "PETROLEOS SUDAMERICANOS SA",
+        "latitude": -37.87471046307522,
+        "longitude": -67.76410318886306
+    },
+    {
+        "name": "YAC. DIADEMA",
+        "operadora": "CAPSA-CAPEX",
+        "latitude": -45.74168083088503,
+        "longitude": -67.64320816858059
+    },
+    {
+        "name": "PAMPA DEL CASTILLO",
+        "operadora": "CAPSA-CAPEX",
+        "latitude": -45.793312561536794,
+        "longitude": -68.06085729473443
+    },
+    {
+        "name": "YACIMIENTO AGUA CAJON",
+        "operadora": "CAPSA-CAPEX",
+        "latitude": -38.93543369846393,
+        "longitude": -68.35618047760441
+    },
+    {
+        "name": "PCR-MALARGÜE",
+        "operadora": "PCR",
+        "latitude": -35.475047202765715,
+        "longitude": -69.55247158131967
+    },
+    {
+        "name": "EL MEDANITO",
+        "operadora": "PCR",
+        "latitude": -37.98137993151713,
+        "longitude": -67.97345683949271
+    },
+    {
+        "name": "CERRO MATA MORA PETROLERA EL TREBO",
+        "operadora": "PHOENIX",
+        "latitude": -38.499339744025505,
+        "longitude": -68.32439152721938
+    },
+    {
+        "name": "CHAÑARES HERRADOS",
+        "operadora": "ACONCAGUA",
+        "latitude": -33.082961085963376,
+        "longitude": -68.88276717095226
+    }
+]
